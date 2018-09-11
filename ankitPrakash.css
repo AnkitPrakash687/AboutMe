@@ -1,0 +1,56 @@
+body{
+	color: red;
+	background: lightblue;
+	background-size: 100%;
+}
+
+header{
+	color: red;
+	text-align: center;
+	font-size: 32px;
+	font-family: "Tw Cen MT";
+	text-shadow: 2px 2px #c19b9b;
+}
+
+#current{
+	color: #711414;	
+	font-size: 15px;	
+	font-family: Comic Sans MS; 
+	margin:0 50px 0 50px; 
+}
+
+#past-section{
+	color: #711414;	
+	font-size: 15px;	
+	font-family: "Comic Sans MS"; 
+	margin:0 50px 0 50px; 
+}
+
+#future-section{
+	color: #711414;	
+	font-size: 15px;	
+	font-family: "Comic Sans MS"; 
+	margin:0 50px 0 50px; 
+}
+
+#schedule{
+	color: #711414;	
+	font-size: 15px;	
+	font-family: "Comic Sans MS"; 
+	margin:0 50px 0 50px; 
+}
+.section-header{
+	color: #811414;	
+}
+
+.aside-header{
+	color: #533455;
+}
+
+footer{
+	color: #a0021e;
+	text-align: center;
+	font-family: "Tw Cen MT";
+	text-shadow: 2px 2px #c19b9b;
+	font-weight: 600;
+}

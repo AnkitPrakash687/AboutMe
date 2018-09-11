@@ -1,0 +1,25 @@
+body {
+    background-color: #FBFBFE;
+	margin: 100;
+    font-family: 'Montserrat', sans-serif;
+}
+article {
+	background-color: #EBF7FA;
+	font-family: "calibri";
+	font-size: 18px;
+	
+}
+
+header {
+	font-family: Georgia; 
+	font-size: 34px; 
+	font-weight: 600; 
+	text-align: center;
+	background-color: #E7E5E4
+}
+
+footer {
+	
+}
+	
+
